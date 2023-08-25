@@ -21,4 +21,5 @@ const backpack = {
   },
 };
 
-console.log("The backpack object:", backpack);
+console.log("The getbackpack object:", backpack);
+console.log("My bakpack pocketNum:", backpack.pocketNum);
